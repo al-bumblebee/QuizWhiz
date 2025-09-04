@@ -1,8 +1,11 @@
 # 🧠 QuizWhiz - Interactive Quiz Application
 
 **QuizWhiz** is a modern, responsive quiz application built with React and Tailwind CSS. This project demonstrates front-end development skills through an engaging, user-friendly quiz interface with real-time scoring, difficulty levels, and comprehensive score tracking.
+## 🌐 Live Demo
 
-(image.png)
+**🔗 [View Live Demo on Vercel](https://quizwhiz-1mlr.onrender.com/)**
+
+QuizWhiz Preview(![alt text](image.png))
 
 ## 🎯 Project Purpose
 
@@ -123,9 +126,6 @@ npm run preview
 - **All Attempts**: Complete history with search and pagination
 - **Export Data**: Download your scores as JSON backup
 
-## 🌐 Live Demo
-
-**🔗 [View Live Demo on Vercel](https://your-app-name.vercel.app)**
 
 Experience QuizWhiz in action! The app is deployed and ready to use.
 
@@ -267,7 +267,7 @@ Contributions are welcome! Please follow these steps:
 
 ### Project Links
 - **GitHub Repository**: (https://github.com/al-bumblebee/quizwhiz)
-- **Live Demo**: [https://your-app-name.vercel.app](https://your-app-name.vercel.app)
+- **Live Demo**: (https://quizwhiz-1mlr.onrender.com/)
 
 
 ---
