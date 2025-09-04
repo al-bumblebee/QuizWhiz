@@ -1,0 +1,176 @@
+{
+  "easy": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "London", "Paris", "Madrid"],
+      "correctIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correctIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctIndex": 3,
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "How many minutes are there in one hour?",
+      "options": ["60", "45", "30", "90"],
+      "correctIndex": 0,
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "What is H2O commonly known as?",
+      "options": ["Salt", "Water", "Hydrogen Peroxide", "Oxygen"],
+      "correctIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "correctIndex": 2,
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Gold", "Oxygen", "Silver", "Hydrogen"],
+      "correctIndex": 1,
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "What color do you get when you mix red and yellow?",
+      "options": ["Purple", "Orange", "Green", "Blue"],
+      "correctIndex": 1,
+      "difficulty": "easy"
+    }
+  ],
+  "medium": [
+    {
+      "id": 11,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Leo Tolstoy", "Mark Twain"],
+      "correctIndex": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "What is the smallest prime number?",
+      "options": ["1", "2", "3", "5"],
+      "correctIndex": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 13,
+      "question": "What gas do plants primarily absorb from the air?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "correctIndex": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "question": "In which year did World War II end?",
+      "options": ["1944", "1945", "1946", "1947"],
+      "correctIndex": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "correctIndex": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": 16,
+      "question": "Which programming language was created by Guido van Rossum?",
+      "options": ["Java", "Python", "C++", "JavaScript"],
+      "correctIndex": 1,
+      "difficulty": "medium"
+    },
+    {
+      "id": 17,
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Won", "Yen", "Ringgit"],
+      "correctIndex": 2,
+      "difficulty": "medium"
+    },
+    {
+      "id": 18,
+      "question": "Which organ in the human body produces insulin?",
+      "options": ["Liver", "Pancreas", "Kidney", "Heart"],
+      "correctIndex": 1,
+      "difficulty": "medium"
+    }
+  ],
+  "hard": [
+    {
+      "id": 21,
+      "question": "What is the time complexity of binary search?",
+      "options": ["O(n)", "O(log n)", "O(n²)", "O(1)"],
+      "correctIndex": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 22,
+      "question": "Which scientist proposed the theory of continental drift?",
+      "options": ["Charles Darwin", "Alfred Wegener", "Gregor Mendel", "Louis Pasteur"],
+      "correctIndex": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 23,
+      "question": "What is the Planck constant approximately equal to?",
+      "options": ["6.626 × 10⁻³⁴ J⋅s", "9.81 m/s²", "3 × 10⁸ m/s", "1.6 × 10⁻¹⁹ C"],
+      "correctIndex": 0,
+      "difficulty": "hard"
+    },
+    {
+      "id": 24,
+      "question": "In which layer of the atmosphere do most commercial aircraft fly?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "correctIndex": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 25,
+      "question": "What is the name of the first electronic computer?",
+      "options": ["UNIVAC", "ENIAC", "EDVAC", "MANIAC"],
+      "correctIndex": 1,
+      "difficulty": "hard"
+    },
+    {
+      "id": 26,
+      "question": "Which philosopher wrote 'Critique of Pure Reason'?",
+      "options": ["Immanuel Kant", "Friedrich Nietzsche", "René Descartes", "Aristotle"],
+      "correctIndex": 0,
+      "difficulty": "hard"
+    },
+    {
+      "id": 27,
+      "question": "What is the molecular formula for glucose?",
+      "options": ["C₆H₁₂O₆", "C₁₂H₂₂O₁₁", "C₂H₆O", "CH₄"],
+      "correctIndex": 0,
+      "difficulty": "hard"
+    },
+    {
+      "id": 28,
+      "question": "Which SQL command is used to remove duplicates?",
+      "options": ["UNIQUE", "DISTINCT", "REMOVE", "FILTER"],
+      "correctIndex": 1,
+      "difficulty": "hard"
+    }
+  ]
+}
